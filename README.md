@@ -1,4 +1,4 @@
-![image](https://github.com/saivardhan26123/VH097/assets/127670183/0b953ab2-5d9f-4d05-8a9e-e1ea20dc0e60)<h1 align="center" style="border-bottom: none">
+<h1 align="center" style="border-bottom: none">
     <b>
         <a href="https://www.google.com"> Vehicle Detection and Counting System
  </a><br>
