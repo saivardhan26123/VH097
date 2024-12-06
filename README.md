@@ -3,20 +3,16 @@
         <a href="https://www.google.com"> Vehicle Detection and Counting System
  </a><br>
     </b>
-    ⭐️VH097  ⭐️ <br>
+    ⭐️SAI VARDHAN  ⭐️ <br>
 </h1>
 
 # [`Demo video link `](https://drive.google.com/file/d/1lQc6BsjXuNZzCb1CIRdzpaGHKzB52ZqV/view?usp=sharing)
 The project will be about the total number of vehicle which are passing through a way.
-## Team Details
-`Team number` : VH097
+##   Details
 
 | Name    | Email           |
 |---------|-----------------|
 | PIPPERA SAI VARDHAN | saivardhan26123@gmail.com |
-| KUNKANUR INDUMATHI | vvenkatesh@gmail.com |
-| GUDA MADAN MOHAN REDDY | madanmohanguda2002@gmail.com |
-| NALLAPATI YASASWI | yasaswivenkat4@gmail.com |
 ![image](https://github.com/saivardhan26123/VH097/assets/127670183/33eb9b18-e335-489f-addb-f29c66161e6c)
 ![image](https://github.com/saivardhan26123/VH097/assets/127670183/f8f5df40-8902-4937-b624-9b3d05f53c60)
 ![image](https://github.com/saivardhan26123/VH097/assets/127670183/379899a7-d1bc-440a-a2a3-e3d01d69344f)
